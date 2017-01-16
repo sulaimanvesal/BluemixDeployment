@@ -3,6 +3,7 @@ This is a sample application showing how to deploy a simple hello world app usin
 
 # Step 1:
 Download and install the Cloud Foundry CLI tool:
+
 Mac OSX:
 
 	$ brew tap cloudfoundry/tap
