@@ -25,9 +25,9 @@ Ubuntu based Linux distributions:
 	
 	$ cd [my-app-directory]
   	$ cf push
-# Step 3
+# Sample App
 
-Clone the app to your local environment from your terminal using the following command:
+Clone the Hello Word app to your local environment from your terminal using the following command:
 
 	$ git clone https://github.com/IBM-Bluemix/python-hello-world-flask.git
 	cd into this newly created directory
