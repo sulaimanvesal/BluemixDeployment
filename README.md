@@ -1,4 +1,4 @@
-# BluemixDeployment
+# Application Deployment in Bluemix
 This is a sample application showing how to deploy a simple hello world app using Cloud Foundry https://github.com/cloudfoundry/cli#downloads and the Python. The concept is similar to @IBM-Blumix.
 
 # Step 1:
