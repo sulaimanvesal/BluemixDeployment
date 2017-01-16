@@ -75,6 +75,13 @@ Webinar on how to deploy your application: https://www.youtube.com/watch?v=9M86B
 
 Coursera: https://www.coursera.org/learn/developer-iot/lecture/fQSGf/deploying-an-application-to-bluemix-part-1
 
+# Extra:
 
+I have uploaded a simple object recognition which has been written in Python and it used object recognition services by IBM Watson. You need to create a service and from there copy the API-Key and replace it with the one which is in the code:
 	
-	
+	1: Download watson_developer_cloud
+	2: You need to install json2html package because it maps the json file to web html file.
+	3: copy the code to your environment
+	4: copy the API-Key from object-recognition services to the code
+	 visual_recognition = VisualRecognitionV3('2016-05-20', api_key='a725a8b083d84215e86fa74ef64cc824dbe1090e')
+	5: run the code.
